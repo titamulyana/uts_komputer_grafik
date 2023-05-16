@@ -1,0 +1,2 @@
+# uts_komputer_grafik
+UTS Komputer Grafik kelompok 7_06TPLE04_Teknik Informatika_Universitas Pamulang
